@@ -17,3 +17,16 @@ Repositório criado para o desafio de projeto.
 [Tutorial Git Básico](https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao)
 
 [Folha de Consulta - Comandos Git](https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/)
+
+## Principais Comandos GIT:
+
+<img src="../desafio-gitrepo/git%20commands/2.png" width="500" height="500">
+<img src="../desafio-gitrepo/git%20commands/3.png" width="500" height="500">
+<img src="../desafio-gitrepo/git%20commands/4.png" width="500" height="500">
+<img src="../desafio-gitrepo/git%20commands/5.png" width="500" height="500">
+<img src="../desafio-gitrepo/git%20commands/6.png" width="500" height="500">
+<img src="../desafio-gitrepo/git%20commands/7.png" width="500" height="500">
+<img src="../desafio-gitrepo/git%20commands/8.png" width="500" height="500">
+<img src="../desafio-gitrepo/git%20commands/9.png" width="500" height="500">
+<img src="../desafio-gitrepo/git%20commands/10.png" width="500" height="500">
+<img src="../desafio-gitrepo/git%20commands/11.png" width="500" height="500">
